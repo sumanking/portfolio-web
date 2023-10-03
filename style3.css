@@ -1,0 +1,139 @@
+
+.por{
+    height: 799px;
+    margin-top: -60px;
+    background-color: #00C4FF;
+    font-size: 25px;
+}
+.por1{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.por>.por1>p{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    font-size: 49px;
+}
+.main1{
+    height: 250px;
+    margin-top: 50px;
+}
+.one{
+    height: 250px;
+    width: 250px;
+    background-color: #16FF00;
+    margin-left: 180px;
+    margin-top: 10px;
+    border: 2px solid black;
+    background-image: url(./amazona.jpeg);
+    background-size: cover;
+    text-decoration: none;
+}
+.por>.main1>.one>a>p{
+    margin-top: 245px;
+    color: #EA1179;
+}
+.por>.main1>.one>a{
+    text-decoration: none;
+}
+.two{
+    height: 250px;
+    width: 250px;
+    background-color: #16FF00;
+    margin-left: 640px;
+    margin-top: -250px;
+    border: 2px solid black;
+    background-image: url(./drum.jpg);
+    background-size: cover;
+    text-decoration: none;
+}
+.por>.main1>.two>a>p{
+    margin-top: 245px;
+    color: #EA1179;
+    
+}
+.por>.main1>.two>a{
+    text-decoration: none;
+}
+.three{
+    height: 250px;
+    width: 250px;
+    background-color: #16FF00;
+    margin-left: 1100px;
+    margin-top: -250px;
+    border: 2px solid black;
+    background-image: url(./land.jpeg);
+    background-size: cover;
+    text-decoration: none;
+}
+.por>.main1>.three>a>p{
+    margin-top: 245px;
+    color: #EA1179;
+    
+}
+.por>.main1>.three>a{
+    text-decoration: none;
+}
+.main2{
+    height: 250px;
+    margin-top: 50px;
+}
+.four{
+    height: 250px;
+    width: 250px;
+    background-color: #16FF00;
+    margin-left: 180px;
+    margin-top: 10px;
+    border: 2px solid black;
+    background-image: url(./tindog.jpeg);
+    background-size: cover;
+    text-decoration: none;
+}
+.por>.main2>.four>a>p{
+    margin-top: 245px;
+    color: #EA1179;
+}
+.por>.main2>.four>a{
+    text-decoration: none;
+}
+.five{
+    height: 250px;
+    width: 250px;
+    background-color: #16FF00;
+    margin-left: 640px;
+    margin-top: -250px;
+    border: 2px solid black;
+    background-image: url(./cal.png);
+    background-size: cover;
+    text-decoration: none;
+}
+.por>.main2>.five>a>p{
+    margin-top: 245px;
+    color: #EA1179;
+    
+}
+.por>.main2>.five>a{
+    text-decoration: none;
+}
+.six{
+    height: 250px;
+    width: 250px;
+    background-color: #16FF00;
+    margin-left: 1100px;
+    margin-top: -250px;
+    border: 2px solid black;
+    background-image: url(./diceeg.png);
+    background-size: cover;
+    text-decoration: none;
+}
+.por>.main2>.six>a>p{
+    margin-top: 245px;
+    color: #EA1179;
+    
+}
+.por>.main2>.six>a{
+    text-decoration: none;
+}

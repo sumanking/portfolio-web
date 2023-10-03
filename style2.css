@@ -1,0 +1,137 @@
+.projects {
+    height: 700px;
+    background-color:  #FF55BB; 
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    
+}
+.type {
+    height: 40px;
+    color: yellow;
+    background-color: #FF55BB;
+    
+}
+.type > h4 {
+    width: 70px;
+    margin-left: 45%;
+    font-weight: bolder;
+    border-bottom: 2px solid greenyellow;
+    
+}
+.pa {
+    margin-left: 10px;
+    margin-top: 90px;
+}
+.pa1 {
+    font-size: 25px;
+    margin-left: 10%;
+    font-weight: 600;
+    color: chartreuse;
+}
+.st {
+    height: 20px;
+    width: 650px;
+    background-color: beige;
+    border-radius: 10px;
+    
+}
+.st1 {
+    background-color: #48D1CC;
+    height: 20px;
+    width: 90%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border:2px solid white;
+}
+.projects > .pa > .pa1 > p {
+    display: inline;
+    margin-left: 340px;
+}
+.pan {
+    margin-left: 10px;
+    margin-top: 92px;
+}
+.pa11 {
+    font-size: 25px;
+    margin-left: 10%;
+    font-weight: 600;
+    color: chartreuse;
+}
+.stu {
+    height: 20px;
+    width: 650px;
+    background-color: beige;
+    border-radius: 10px;
+    
+}
+.stu1 {
+    background-color: #48D1CC;
+    height: 20px;
+    width: 95%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border:2px solid white;
+}
+.projects > .pan > .pa11 > p {
+    display: inline;
+    margin-left: 380px;
+}
+.pana {
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.pa111 {
+    font-size: 25px;
+    margin-left: 10%;
+    font-weight: 600;
+    color: chartreuse;
+}
+.stud {
+    height: 20px;
+    width: 650px;
+    background-color: beige;
+    border-radius: 10px;
+    border
+}
+.stud1 {
+    background-color: #48D1CC;
+    height: 20px;
+    width: 80%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border:2px solid white;
+}
+.projects > .pana > .pa111 > p {
+    display: inline;
+    margin-left: 250px;
+}
+.panan {
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.pa1111 {
+    font-size: 25px;
+    margin-left: 10%;
+    font-weight: 600;
+    color: chartreuse;
+}
+.stude {
+    height: 20px;
+    width: 650px;
+    background-color: beige;
+    border-radius: 10px;
+    border
+}
+.stude1 {
+    background-color: #48D1CC;
+    height: 20px;
+    width: 85%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border:2px solid white;
+}
+.projects > .panan > .pa1111 > p {
+    display: inline;
+    margin-left: 260px;
+}

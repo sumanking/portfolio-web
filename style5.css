@@ -1,0 +1,106 @@
+.contact{
+    height:200px;
+    background-color: #2d3e4f;
+  }
+  .contact>h4{
+    display: flex;
+    position: absolute;
+    right:10%;
+  }
+  .contact>h2{
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    color: WHITE;
+  }
+  .contact>.phone>h3{
+    color: WHITE;
+    
+
+  }
+  .contact>.phone>h3>a{
+    text-decoration: none;
+    color: wheat;
+  }
+  .phone{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left:6%;
+    
+  }
+  .consult{
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    margin-top: 30px;
+    margin-left:43%;
+    background-color: #EC53B0;
+    
+    border-radius: 30px;
+    color: azure;
+    font-size: 20px;
+    border: 2px solid rgb(206, 186, 186);
+  }
+  .consult:hover{
+   background-color: #4d61e0;
+   transform: rotate(3deg);
+   box-shadow: 10px 20px 30px white;
+   color: rgb(99, 210, 61);
+  }
+  .follow{
+    display: flex;
+    position: absolute;
+    left:76%;
+    font-size: 25px;
+    color: beige;
+  }
+  .follow>h4{
+    size: 80px;
+
+  }
+  .logo{
+    height: 50px;
+    width:350px;
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    color:aliceblue;
+    margin-left: 70%;
+    text-decoration: none;
+    margin-top: 35px;
+  }
+  .contact>.logo>.facebook>a{
+    color: rgb(207, 220, 222);
+    text-decoration: none;
+  }
+  .contact>.logo>.instagram>a{
+    color: rgb(207, 220, 222);
+    text-decoration: none;
+    padding: 13px;
+  }
+  .contact>.logo>.youtube>a{
+    color: rgb(207, 220, 222);
+    text-decoration: none;
+    padding: 5px;
+  }
+  .contact>.logo>.tweeter>a{
+    color: rgb(207, 220, 222);
+    text-decoration: none;
+    padding: 9px;
+  }
+  .contact>.logo>.linkdin>a{
+    color: rgb(207, 220, 222);
+    text-decoration: none;
+    padding: 9px;
+  }
+  .contact>.logo>.whatsapp>a{
+    color: rgb(207, 220, 222);
+    text-decoration: none;
+    padding: 9px;
+  }
